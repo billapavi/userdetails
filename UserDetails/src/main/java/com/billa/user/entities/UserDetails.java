@@ -14,11 +14,10 @@ public class UserDetails {
 	@Id
 	private String email;
 	private String firstName;
-	private String lasttName;
+	private String lastName;
 	private String phone;
 	private String password;
-	private String question;
-	private String answer;
+	private String gender;
 	private String apiKey;
 	private String secKey; 
 }
